@@ -1,4 +1,4 @@
-
+//getter and setter
 public class Account {
 	private String name;
 	
